@@ -1,0 +1,12 @@
+<Files ~ ".*\..*">
+	Order Allow,Deny
+	Deny from all
+</Files>
+#<FilesMatch "\.(gif|png|jpg|zip|alz|a00|jpeg|GIF|JPG|ZIP|RAR|ALZ|A00|ACE|mp3|MP3|mpeg|MPEG\|wav|WAV|asf|ASF|wmv|WMV|swf|smi|SMI|SWF|exe|EXE|wma|WMA)$">
+#	Order Deny,Allow
+#	Allow from all
+#</FilesMatch>
+<FilesMatch "\.(jpg|jpeg|gif|png|rle|bmp|psd|pdd|tif|raw|al|eps|JPG|JPEG|GIF|PNG|RLE|BMP|PSD|PDD|TIF|RAW|AL|EPS)$">
+Order allow,deny
+Allow from all
+</FilesMatch>

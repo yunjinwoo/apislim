@@ -1,0 +1,55 @@
+
+erforming the following challenges:
+http-01 challenge for api.jinadd.com
+http-01 challenge for jinadd.com
+http-01 challenge for node.jinadd.com
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+NOTE: The IP of this machine will be publicly logged as having requested this
+certificate. If you're running certbot in manual mode on a machine that is not
+your server, please ensure you're okay with that.
+
+Are you OK with your IP being logged?
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(Y)es/(N)o: Y
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Create a file containing just this data:
+
+lIdED0eSQcdRTHlb7mAhX_53sUiJVlYlNosypEcQEHE.2SmuiHKMwKcFT9-w71EctB4INmwvz9KL-8xDNIlFm70
+
+And make it available on your web server at this URL:
+
+http://api.jinadd.com/.well-known/acme-challenge/lIdED0eSQcdRTHlb7mAhX_53sUiJVlYlNosypEcQEHE
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Press Enter to Continue
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Create a file containing just this data:
+
+ni4jCiUIAuuMbA3rcb3YIXuIpUhNxSr8hxgE7RQZe4I.2SmuiHKMwKcFT9-w71EctB4INmwvz9KL-8xDNIlFm70
+
+And make it available on your web server at this URL:
+
+http://jinadd.com/.well-known/acme-challenge/ni4jCiUIAuuMbA3rcb3YIXuIpUhNxSr8hxgE7RQZe4I
+
+(This must be set up in addition to the previous challenges; do not remove,
+replace, or undo the previous challenge tasks yet.)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Press Enter to Continue
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Create a file containing just this data:
+
+CCiKyOUqz4tbAohuj1kC-JydIlCsqnHIEvbJhm640mE.2SmuiHKMwKcFT9-w71EctB4INmwvz9KL-8xDNIlFm70
+
+And make it available on your web server at this URL:
+
+http://node.jinadd.com/.well-known/acme-challenge/CCiKyOUqz4tbAohuj1kC-JydIlCsqnHIEvbJhm640mE
+
+(This must be set up in addition to the previous challenges; do not remove,
+replace, or undo the previous challenge tasks yet.)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

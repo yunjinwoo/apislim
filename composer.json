@@ -1,0 +1,10 @@
+{
+    "name": "cargodealer",
+    "description": "카고딜러",
+    "type": "project",
+    "require": {
+        "php": "~5.4 || ^7.1",
+        "slim/slim": "3.x-dev",
+        "illuminate/database": "7.x-dev"
+    }
+}
