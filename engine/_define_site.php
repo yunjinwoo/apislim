@@ -10,9 +10,9 @@ define('_db_car_fix_', 'jin_') ; // module_car db table prefix
 
 // 	uws64-181.cafe24.com/WebMysql
 define('_DB_HOST_', '127.0.0.1') ;//10.10.10.42
-define('_DB_USER_', 'cargo') ;
-define('_DB_PASS_', 'cargo12#') ;
-define('_DB_NAME_', 'cargo') ;
+define('_DB_USER_', '----') ;
+define('_DB_PASS_', '-----') ;
+define('_DB_NAME_', '----') ;
 		
 
 //define('_DB_HOST_', 'parse.vps.phps.kr') ;//10.10.10.42

@@ -13,6 +13,6 @@ $config['displayErrorDetails'] = true;
 $config['addContentLengthHeader'] = false;
 
 $config['db']['host']   = 'localhost';
-$config['db']['user']   = 'cargo';
-$config['db']['pass']   = 'cargo12#';
-$config['db']['dbname'] = 'cargo';
+$config['db']['user']   = '-----';
+$config['db']['pass']   = '------';
+$config['db']['dbname'] = '-----';
