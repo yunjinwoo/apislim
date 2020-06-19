@@ -1,10 +1,12 @@
 {
-    "name": "cargodealer",
-    "description": "카고딜러",
+    "name": "apislim",
+    "description": "api 호출용",
     "type": "project",
     "require": {
         "php": "~5.4 || ^7.1",
-        "slim/slim": "3.x-dev",
-        "illuminate/database": "7.x-dev"
+        "slim/slim": "3.x-dev"
+    },
+    "require-dev": {
+        "monolog/monolog": "1.x-dev"
     }
 }
